@@ -7,7 +7,7 @@ about:
   head: 46385c5
   archived: false
   latestVersion: v0.10.3
-  collectedAt: 2026-09-04T19:43:24Z
+  collectedAt: 2026-09-04T20:52:45Z
 timeline:
   created: 2018-08-02
   lastCommit: 2025-08-01
@@ -82,6 +82,49 @@ total:
   openIssue: 2
   commit: 258
 ---
+path: /home/runner/.x-repo/github.com/FairwindsOps/rbac-lookup
+collectedAt: 2026-09-04T20:52:45Z
+loc:
+  Json:
+    code: 17943
+    comments: 0
+    blanks: 0
+    files: 2
+  Go:
+    code: 892
+    comments: 137
+    blanks: 174
+    files: 10
+  Yaml:
+    code: 133
+    comments: 0
+    blanks: 0
+    files: 5
+  Svg:
+    code: 79
+    comments: 2
+    blanks: 0
+    files: 2
+  Makefile:
+    code: 24
+    comments: 2
+    blanks: 1
+    files: 1
+  Sh:
+    code: 17
+    comments: 2
+    blanks: 9
+    files: 2
+  Markdown:
+    code: 0
+    comments: 248
+    blanks: 86
+    files: 7
+total:
+  code: 19088
+  comments: 391
+  blanks: 270
+  files: 29
 ---
 date: "2026-08-24"
 repo:
