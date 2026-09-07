@@ -5,7 +5,7 @@ about:
   head: 46385c5
   archived: false
   latestVersion: "v0.10.3"
-  collectedAt: 2026-09-07T05:36:09Z
+  collectedAt: 2026-09-07T18:54:18Z
 timeline:
   created: 2018-08-02
   lastCommit: 2025-08-01
@@ -81,7 +81,7 @@ total:
   commit: 258
 ---
 path: /home/runner/.x-repo/github.com/FairwindsOps/rbac-lookup
-collectedAt: 2026-09-07T05:36:09Z
+collectedAt: 2026-09-07T18:54:19Z
 loc:
   Json:
     code: 17943
@@ -213,7 +213,7 @@ checks:
       - 'Warn: 0 commits out of 20 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:36:10+00:00
+  collectedAt: 2026-09-07T18:54:20+00:00
   platform:
     darwin/arm64:
       name:  rbac-lookup_0.10.3_Darwin_arm64.tar.gz
