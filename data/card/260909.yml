@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.10.3"
   latestRelease: "v0.10.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:46:22Z
+  collectedAt: 2026-09-09T19:59:01Z
 timeline:
   created: 2018-08-02
   lastCommit: 2025-08-01
@@ -85,7 +85,7 @@ total:
   commit: 258
 ---
 path: /home/runner/.x-repo/github.com/FairwindsOps/rbac-lookup
-collectedAt: 2026-09-09T05:46:23Z
+collectedAt: 2026-09-09T19:59:03Z
 loc:
   Json:
     code: 17943
