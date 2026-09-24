@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1053,
       "digest": "sha256:f41585a7668f5ae21cffb2e2b38ba9d1ea1a2baf9f6b472a1595fb084e25c4b4",
-      "download_count": 467,
+      "download_count": 469,
       "created_at": "2025-08-01T19:34:42Z",
       "updated_at": "2025-08-01T19:34:42Z",
       "browser_download_url": "https://github.com/FairwindsOps/rbac-lookup/releases/download/v0.10.3/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 184,
       "digest": "sha256:82ea3c115af50e83ef336ba3ed264b005def53b74bba94276c9457476b943aac",
-      "download_count": 418,
+      "download_count": 420,
       "created_at": "2025-08-01T19:34:42Z",
       "updated_at": "2025-08-01T19:34:42Z",
       "browser_download_url": "https://github.com/FairwindsOps/rbac-lookup/releases/download/v0.10.3/checksums.txt.sig"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 11965423,
       "digest": "sha256:7d8e62980e66bf58c67994c9b5ed45308d3d425719daa9aa694c26b47e24fc11",
-      "download_count": 3014,
+      "download_count": 3018,
       "created_at": "2025-08-01T19:34:40Z",
       "updated_at": "2025-08-01T19:34:40Z",
       "browser_download_url": "https://github.com/FairwindsOps/rbac-lookup/releases/download/v0.10.3/rbac-lookup_0.10.3_Linux_x86_64.tar.gz"
