@@ -1,0 +1,41 @@
+- repo: blackarch
+  srcname: rbac-lookup
+  binname: rbac-lookup
+  visiblename: rbac-lookup
+  version: v0.10.3.r0.g46385c5
+  origversion: v0.10.3.r0.g46385c5-1
+  status: newest
+  summary: A CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user.
+  licenses:
+    - Apache
+- repo: chocolatey
+  binname: rbac-lookup
+  visiblename: RBAC Lookup
+  version: 0.7.1
+  origversion: null
+  status: untrusted
+  summary: Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: rbac-lookup
+  visiblename: rbac-lookup
+  version: 0.3.2
+  origversion: 0.3.2-bp155.2.19
+  status: untrusted
+  summary: Tool to find roles and cluster roles in a Kubernetes cluster
+  licenses:
+    - Apache-2.0
+  categories:
+    - System/Management
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: rbac-lookup
+  visiblename: rbac-lookup
+  version: 0.3.2
+  origversion: 0.3.2-bp156.3.16
+  status: untrusted
+  summary: Tool to find roles and cluster roles in a Kubernetes cluster
+  licenses:
+    - Apache-2.0
+  categories:
+    - System/Management
