@@ -1,9 +1,19 @@
 - repo: blackarch
   srcname: rbac-lookup
+  binname: rbac-lookup-debug
+  visiblename: rbac-lookup-debug
+  version: v0.10.3.r1.ga0246d0
+  origversion: v0.10.3.r1.ga0246d0-1
+  status: newest
+  summary: Detached debugging symbols for rbac-lookup
+  licenses:
+    - Apache
+- repo: blackarch
+  srcname: rbac-lookup
   binname: rbac-lookup
   visiblename: rbac-lookup
-  version: v0.10.3.r0.g46385c5
-  origversion: v0.10.3.r0.g46385c5-1
+  version: v0.10.3.r1.ga0246d0
+  origversion: v0.10.3.r1.ga0246d0-1
   status: newest
   summary: A CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user.
   licenses:
